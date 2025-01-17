@@ -5,12 +5,12 @@
 **Snake Game** is a Python-based version of the classic Snake game where the player controls a snake that aims to consume apples. Unlike traditional versions, this game introduces new types of apples that trigger different events during gameplay. Developed as part of a **First Year Programming Project** for the **Bachelor's Degree in Mathematical Engineering and Artificial Intelligence** at **Universidad Pontificia Comillas, ICAI**.
 
 ## 📜 Table of Contents
-- [📌 Project Overview](#project-overview)
-- [🛠️ Installation](#installation)
-- [⚙️ How It Works](#how-it-works)
-- [📂 Project Structure](#project-structure)
-- [🖥️ Technologies Used](#technologies-used)
-- [🙌 Credits](#credits)
+- [📌 Project Overview](#-project-overview)
+- [🛠️ Installation](#-installation)
+- [⚙️ How It Works](#-how-it-works)
+- [📂 Project Structure](#-project-structure)
+- [🖥️ Technologies Used](#-technologies-used)
+- [🙌 Credits](#-credits)
 
 ## 📌 Project Overview
 

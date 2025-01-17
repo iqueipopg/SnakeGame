@@ -6,8 +6,8 @@
 
 ## 📜 Table of Contents
 - [📌 Project Overview](#-project-overview)
-- [🛠️ Installation](#-installation)
-- [⚙️ How It Works](#-how-it-works)
+- [🛠️ Installation](#️-installation)
+- [🎮 How to Play](#-how-to-play)
 - [📂 Project Structure](#-project-structure)
 - [🖥️ Technologies Used](#-technologies-used)
 - [🙌 Credits](#-credits)
@@ -32,7 +32,7 @@ git clone https://github.com/iqueipopg/SnakeGame.git
 python src/main.py
 ```
 
-## ⚙️ How It Works
+## 🎮 How to Play
 
 ### 🐍 Snake Mechanics
 - The player controls the snake using the arrow keys. The snake moves in the selected direction and grows in length when it consumes apples.

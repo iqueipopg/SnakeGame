@@ -1,0 +1,11 @@
+How to win:
+In order to win, you must achieve a score of 50 points
+
+Types of apples:
+    - red: if eaten, score goes up by one
+    - purple: if eaten, snake dies
+    - blue: if eaten, snake moves slower for three turns
+    - gold: if eaten, score goes up by three
+    - pink: if eaten, a purple apple dissapears
+
+In case of touching the screen edges, snake dies.

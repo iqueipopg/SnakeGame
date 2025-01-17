@@ -1,4 +1,4 @@
-
+![Snake Game Banner](SnakeGame_Banner.png)
 
 # Snake Game 🐍🎮
 

@@ -1,5 +1,5 @@
 import pygame
-import funciones as f
+import src.funciones as f
 from pygame import Vector2  # representa vectores con coord x e y
 import random
 
